@@ -1,0 +1,19 @@
+Project Note.ipynb
+.ipynb_checkpoints/
+bin
+conda-meta/
+doc/
+etc/
+include/
+lib/
+libexec/
+mkspecs/
+noshowappointments-kagglev2-may-2016.csv
+phrasebooks/
+plugins/
+qml/
+resources/
+sbin/
+share/
+ssl/
+translations/
